@@ -14,13 +14,12 @@ Neste Pset foi feita a criação de um projeto lógico na interface gráfica SQL
 
 ### Programas utizados para a resolução deste projeto
 
- VCS
+ VCS:
  [GitHub](httpsgithub.com),
  [Git](httpsgit-scm.com)
 
- SGBD
+ SGBD:
  [Oracle](httpswww.oracle.com),
  [MariaDB](httpsmariadb.org),
  [MySQL](httpswww.mysql.com),
  [PostgreSQL](httpswww.postgresql.org)
-
